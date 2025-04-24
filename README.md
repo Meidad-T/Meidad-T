@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Meidad-T
-- 👀 I’m interested in UI/UX design, Mobile Apps and Games Development, VR/AR, Web Development and Machine learning.
-- 🌱 I’m currently growing ny skills with C++, Assembly, Python, and Java
-- 💞️ I’m looking to collaborate on many programs.
+- I like to build stuff that makes my life a bit less boring- or simply solves some annoying issues I face.
+- If you would like to collaborate on a project, let me know! I would love to work on new, exciting things!
 - 📫 How to reach me: follow me on instagram at meidad_1, or email me at meidadtr@gmail.com
 
 <!---
