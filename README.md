@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!, I'm Meidad 👋</h1>
+<h1 align="center">Hey there, I'm Meidad 🔥</h1>
 <h3 align="center">Computer Science @ TXST | Technical Advisor @ Apple Inc | Future Software Engineer </h3>
 
 ---
@@ -22,7 +22,7 @@
 ### 💻 About Me
 
 🎓 I'm a **third-year Computer Science major** with a **minor in Data Analytics** at **Texas State University**.  
-💼 I currently work at **Apple Inc.** as a **Technical Advisor** — a role that’s given me a deep look into tech, innovation, and how one of the most impactful companies in the world operates.  
+💼 I currently work at **Apple Inc.** as a **Technical Advisor** — a role that’s given me a deep look into tech, innovation, and how one of the most impactful companies in the world operates on a day to day basis.  
 🛠️ I'm always pushing forward, learning new things, and working hard every single day toward my dream of becoming a **Software Engineer**.
 
 ---
