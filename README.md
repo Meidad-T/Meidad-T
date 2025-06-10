@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Meidad 👋</h1>
+<h1 align="center">Hey there!, I'm Meidad 👋</h1>
 <h3 align="center">Computer Science @ TXST | Technical Advisor @ Apple Inc | Future Software Engineer </h3>
 
 ---
